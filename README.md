@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @bmcook93
+- 👀 I’m interested in programming, computer science, and security.
+- 🌱 I’m currently learning Python, Java, C++.
